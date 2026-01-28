@@ -1,76 +1,97 @@
-# Hi 👋 I'm Devyansh Grover  
+<h1 align="center">Hi 👋, I'm Devyansh Grover</h1>
+<h3 align="center">Full Stack MERN Developer building scalable web applications</h3>
 
-🚀 Full Stack Developer | MERN Stack | Problem Solver  
-📍 Faridabad, Haryana, India  
-
----
-
-## 👨‍💻 About Me  
-
-I'm a Full Stack Developer with hands-on experience building scalable web applications using the MERN stack.  
-I love creating interactive user experiences, optimizing performance, and turning ideas into real products.
-
-- 💻 Software Developer Intern @ Founder's Cart Pvt Ltd  
-- 📚 B.Tech in Electronics & Communication Engineering (CGPA: 8.7)  
-- ⚡ Fast learner with strong problem-solving skills  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;React+%26+Next.js+Apps;REST+API+Builder;MongoDB+%26+SQL;Performance+Focused+Developer&center=true&width=520&height=45" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+🚀 Building modern web apps using **MERN Stack & Next.js**  
+⚡ Experience improving performance & scalability in production apps  
+🧩 Strong backend skills with **Node.js & Express**  
+🗄️ Database handling with **MongoDB & SQL**  
+🧠 DSA with **Python, C, C++**  
+💼 Former Software Developer Intern @ Founder's Cart Pvt Ltd  
 
-### Frontend  
-- HTML, CSS, JavaScript, TypeScript  
-- React.js, Next.js  
+---
 
-### Backend  
-- Node.js, Express.js  
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,typescript,javascript,html,css,docker,git,redux,postman" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 Mera Dhaba — Online Food Ordering App  
+
+Secure food ordering platform with authentication.
+
+**Highlights:**
+- JWT-based user authentication  
+- Encrypted passwords using bcrypt  
+- Responsive React frontend  
+
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 https://github.com/yourusername/MeraDhaba  
+
+---
+
+#### 🔹 MereTask — Todo Management App  
+
+Minimalist productivity app with real-time interactions.
+
+**Highlights:**
+- Drag-and-drop task handling  
+- Real-time UI updates  
+- 25% performance improvement with React hooks  
+
+**Tech:** React, JavaScript  
+🔗 https://github.com/yourusername/Todo-App  
+
+---
+
+#### 🔹 Students Dashboard — MERN App  
+
+Secure student data management system.
+
+**Highlights:**
+- Firebase Authentication  
 - RESTful APIs  
+- MongoDB data handling  
 
-### Database  
-- MongoDB, SQL  
-
-### Tools & DevOps  
-- Git, Docker, Redux, Postman  
-
-### DSA & Programming  
-- Python, C, C++  
+**Tech:** MERN Stack, Firebase  
+🔗 https://github.com/yourusername/Students-Dashboard  
 
 ---
 
-## 💼 Experience  
+### 📈 GitHub Stats
 
-### Software Developer Intern — Founder's Cart Pvt Ltd (Jul 2023 – Dec 2023)  
-
-- Built a **drag-and-drop landing page builder** using MERN stack  
-- Developed a **dynamic form builder** with real-time preview  
-- Integrated secure REST APIs with AWS S3 & MongoDB  
-- Improved app performance by **30%** using lazy loading & optimized state management  
-- Collaborated with designers & backend engineers for scalable architecture  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180" />
+</p>
 
 ---
 
-## 🚀 Projects  
+### 🏆 GitHub Trophies
 
-### 🍔 Mera Dhaba — Online Food Ordering App  
-- React-based system with JWT authentication  
-- Secure password handling using bcrypt  
-
-### ✅ MereTask — Todo App  
-- Real-time updates & drag-and-drop UI  
-- Improved performance by 25% with React hooks  
-
-### 📊 Students Dashboard  
-- MERN stack app with Firebase Authentication  
-- REST APIs + MongoDB for student data management  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
-
-- 📧 Email: devyansh.grover348@gmail.com  
-- 💼 LinkedIn: (add your link)  
-- 🧑‍💻 GitHub: (your profile link)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0" />
+</p>
 
 ---
 
-⭐ If you like my work, consider giving my repos a star!
+### 📫 Connect With Me
+
+📧 devyansh.grover348@gmail.com  
+💼 LinkedIn – add your link  
+💻 GitHub – https://github.com/yourusername
