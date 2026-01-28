@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,typescript,javascript,html,css,docker,git,redux,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,html,css,git,redux,postman" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Secure food ordering platform with authentication.
 - Responsive React frontend  
 
 **Tech:** React, Node.js, Express, MongoDB  
-🔗 https://github.com/yourusername/MeraDhaba  
+🔗 https://github.com/DevyanshGroer18/MeraDhaba  
 
 ---
 
@@ -50,7 +50,7 @@ Minimalist productivity app with real-time interactions.
 - 25% performance improvement with React hooks  
 
 **Tech:** React, JavaScript  
-🔗 https://github.com/yourusername/Todo-App  
+🔗 https://github.com/DevyanshGroer18/Todo-App  
 
 ---
 
@@ -64,14 +64,14 @@ Secure student data management system.
 - MongoDB data handling  
 
 **Tech:** MERN Stack, Firebase  
-🔗 https://github.com/yourusername/Students-Dashboard  
+🔗 https://github.com/DevyanshGroer18/Students-Dashboard  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyanshGroer18&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -79,13 +79,13 @@ Secure student data management system.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevyanshGroer18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=DevyanshGroer18&icon=0&color=0" />
 </p>
 
 ---
@@ -94,4 +94,4 @@ Secure student data management system.
 
 📧 devyansh.grover348@gmail.com  
 💼 LinkedIn – add your link  
-💻 GitHub – https://github.com/yourusername
+💻 GitHub – https://github.com/DevyanshGroer18
