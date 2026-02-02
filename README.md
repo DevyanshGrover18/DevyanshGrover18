@@ -24,49 +24,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🔹 Mera Dhaba — Online Food Ordering App  
-
-Secure food ordering platform with authentication.
-
-**Highlights:**
-- JWT-based user authentication  
-- Encrypted passwords using bcrypt  
-- Responsive React frontend  
-
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 https://github.com/DevyanshGroer18/MeraDhaba  
-
----
-
-#### 🔹 MereTask — Todo Management App  
-
-Minimalist productivity app with real-time interactions.
-
-**Highlights:**
-- Drag-and-drop task handling  
-- Real-time UI updates  
-- 25% performance improvement with React hooks  
-
-**Tech:** React, JavaScript  
-🔗 https://github.com/DevyanshGroer18/Todo-App  
-
----
-
-#### 🔹 Students Dashboard — MERN App  
-
-Secure student data management system.
-
-**Highlights:**
-- Firebase Authentication  
-- RESTful APIs  
-- MongoDB data handling  
-
-**Tech:** MERN Stack, Firebase  
-🔗 https://github.com/DevyanshGroer18/Students-Dashboard  
-
----
 
 ### 📈 GitHub Stats
 
@@ -94,4 +51,4 @@ Secure student data management system.
 
 📧 devyansh.grover348@gmail.com  
 💼 LinkedIn – add your link  
-💻 GitHub – https://github.com/DevyanshGroer18
+💻 GitHub – https://github.com/DevyanshGrover18
