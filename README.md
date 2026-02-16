@@ -27,5 +27,5 @@
 ### 📫 Connect With Me
 
 📧 devyansh.grover348@gmail.com  
-💼 LinkedIn – https://www.linkedin.com/in/devyanshgrover/
+💼 LinkedIn – https://www.linkedin.com/in/devyanshgrover
 💻 GitHub – https://github.com/DevyanshGrover18
